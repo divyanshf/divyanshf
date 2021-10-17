@@ -8,9 +8,9 @@
 </br>
 🏗️ I like to build softwares / applications for common use as well as fun
 </br>
-✨ I usually work on **MERN Stack Development** and **Native Android Development**.
+✨ I usually work on **MERN Stack Development**.
 </br>
-🤖 I am currently trying to understand **Machine Learning**.
+🤖 I am currently learning **Machine Learning**.
 
 *Now that you have reached here, I am assuming you might also like to see [Portfolio](https://divyanshf.herokuapp.com)*
 

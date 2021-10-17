@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Divyansh Falodiya**. I am a Computer Science Student and am constantly exploring different tools and technologies. I like to build softwares / applications for common use as well as fun and usually work on **MERN Stack** as a primary tech stack. I am currently exploring **Machine Learning** as a field of interest.
+My name is **Divyansh Falodiya**. I am a **Computer Science** Student and am constantly exploring different tools and technologies. I like to build softwares / applications for common use as well as fun and usually work on **MERN Stack** as a primary tech stack. I am currently exploring **Machine Learning** as a field of interest.
 
 ## 🤖 My Stack
 

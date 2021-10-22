@@ -42,7 +42,7 @@ My name is **Divyansh Falodiya**. I am a **Computer Science** Student and am con
 <a href="https://angel.co/u/divyansh-falodiya">
   <img width=50 src="https://camo.githubusercontent.com/682280402aa6fc3a1e7846dcbf74198ade53d0af9efd858421751e662dea55a8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67656c6c6973742e737667" />
 </a>
-<a href="divyanshfofficial@gmail.com">
+<a href="mailto:divyanshfofficial@gmail.com">
   <img width=50 src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" />
 </a>
 

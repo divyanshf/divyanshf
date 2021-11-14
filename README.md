@@ -10,16 +10,12 @@ My name is **Divyansh Falodiya**. I am a **Computer Science** Student and am con
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50 ></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=50 ></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 ></td>
   </tr>
   <tr>
     <td align="center">ReactJS</td>
     <td align="center">NodeJS</td>
     <td align="center">ExpressJS</td>
     <td align="center">MongoDB</td>
-    <td align="center">HTML5</td>
-    <td align="center">CSS3</td>
   </tr>
  </table>
  

@@ -25,7 +25,7 @@ My name is **Divyansh Falodiya**.
  
 ## 🔥 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshFalodiya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=daa520&icon_color=daa520&text_color=303030&bg_color=0,0,0" alt="Divyansh Falodiya's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=daa520&icon_color=daa520&text_color=303030&bg_color=0,0,0" alt="Divyansh Falodiya's Github Stats">
 </p>
 
 ## 🧑‍🤝‍🧑 Let's connect!

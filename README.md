@@ -1,54 +1,93 @@
-# こんにちは 👋
+<h1 align="center">こんにちは! 👋 I'm Divyansh Falodiya</h1>
+<h3 align="center">🚀 Building and exploring software while crafting creative solutions.</h3>
 
-My name is **Divyansh Falodiya**.
-- 👨‍🎓 I am a **Computer Science** Student.
-- 💻 I like to build softwares / applications for common use as well as fun.
-- 🧰 I primarily work on **MERN Stack**.
-- 🤖 I am currently exploring **Machine Learning** as a field of interest.
+---
 
-## 🧰 My Stack
+### 🔗 My Portfolio
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=50 ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50 ></td>
-  </tr>
-  <tr>
-    <td align="center">ReactJS</td>
-    <td align="center">NodeJS</td>
-    <td align="center">ExpressJS</td>
-    <td align="center">MongoDB</td>
-  </tr>
- </table>
- 
-## 🔥 Github Stats
+🎨 **Want to know more about me and my work? Check out my portfolio:**  
+[🌐 Visit My Portfolio](https://divyanshf.netlify.app)  
+
+Take a look at my projects, skills, and everything I’m passionate about! 😊
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I’m a **Computer Science** enthusiast and student.
+- 🛠️ Passionate about developing applications for **real-world scenarios** and **fun projects**.
+- 🌱 Currently diving deeper into the world of **Web Frontend**, **Machine Learning** and many more.
+- 💡 Open to collaborating on exciting projects that leave a positive impact.
+
+---
+
+### 🔧 My Toolbox
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=daa520&icon_color=daa520&text_color=303030&bg_color=0,0,0" alt="Divyansh Falodiya's Github Stats">
+  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-## 🧑‍🤝‍🧑 Let's connect!
+---
 
-<a href="https://linkedin.com/in/divyanshf">
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://www.instagram.com/divyansh.falodiya/">
-  <img width=50 src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
-</a>
-<!-- <a href="https://angel.co/u/divyansh-falodiya">
-  <img width=50 src="https://camo.githubusercontent.com/682280402aa6fc3a1e7846dcbf74198ade53d0af9efd858421751e662dea55a8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67656c6c6973742e737667" />
-</a> -->
-<a href="mailto:divyanshfofficial@gmail.com">
-  <img width=50 src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" />
-</a>
+### 🌟 Projects & Contributions
 
-*Having reached until here, I believe you would love to have a look at my [Portfolio](https://divyanshf.netlify.app) too.*
+🚀 **Innovative Solutions**  
+I love working on projects that solve real-world problems and have a meaningful impact. Whether it's automating repetitive tasks or enhancing user experiences, my goal is to create solutions that make life easier and more enjoyable.
 
-<hr/>
+🌐 **Exploring New Ideas**  
+From apps that entertain to tools that educate, I am constantly experimenting with creative ideas to bring fun and practicality to users. Every project is an opportunity to learn, grow, and push boundaries.
 
-👋 さようなら！
-<!-- <a href="https://divyanshf.herokuapp.com">
-  <img style="border-radius:50%;" width=50 src="https://raw.githubusercontent.com/DivyanshFalodiya/profile/master/public/images/logo.jpg" />
-</a> -->
+🤝 **Collaborative Efforts**  
+Collaboration fuels innovation. I actively contribute to team projects, open-source communities, and initiatives where creativity and teamwork come together to build something extraordinary.
+
+💡 **Continuous Learning**  
+Every project is a chance to expand my skills, tackle challenges, and explore new fields. I embrace every opportunity to grow and improve, striving to deliver work that stands out.
+
+Have a look at my work under the [Repositories Section](#)!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshf&theme=radical&hide_border=true" alt="Divyansh's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshf&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Divyansh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/divyanshf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/divyansh.falodiya/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:divyanshfalodiyaab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+   "One step at a time 🏃‍♂️. One project at a time 📘. Keep learning, keep building, and keep sharing 🚀."
+</p>
 

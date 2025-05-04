@@ -51,7 +51,9 @@ Collaboration fuels innovation. I actively contribute to team projects, open-sou
 💡 **Continuous Learning**  
 Every project is a chance to expand my skills, tackle challenges, and explore new fields. I embrace every opportunity to grow and improve, striving to deliver work that stands out.
 
-Have a look at my work under the [Repositories Section](#)!
+Have a look at my work under the [Repositories Section](https://github.com/divyanshf?tab=repositories).
+
+I also have some fun projects on [ExperimentF](https://github.com/orgs/Experimentf/repositories).
 
 ---
 
